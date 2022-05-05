@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
